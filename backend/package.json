@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/AdamsGeeky/MEANstack.git"
+    "url": "https://github.com/AdamsGeeky/MEANstack"
   },
   "author": "ADAMU M. M. aka founder and CEO @Geek Innovative Technology",
   "license": "MIT",
