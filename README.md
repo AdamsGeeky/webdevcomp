@@ -1,7 +1,7 @@
 # Todo app using MEANstack
 
 ***
-- [ ] project stetup
+- [*] project stetup
 - [ ] frondend
  - [ ] setup
  - [ ] User interface
