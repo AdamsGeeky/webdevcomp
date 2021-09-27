@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Todo list app using MEANstack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AdamsGeeky/MEANstack.git"
+  },
+  "author": "ADAMU M. M. aka founder and CEO @Geek Innovative Technology",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamsGeeky/MEANstack/issues"
+  },
+  "homepage": "https://github.com/AdamsGeeky/MEANstack#readme"
+}
