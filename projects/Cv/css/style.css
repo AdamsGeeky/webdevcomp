@@ -1,0 +1,27 @@
+body{
+	background-color: #C1DEAE;
+	font-family: sans-serif;
+	font-size: 18px;
+	margin: 15px;
+	padding: 5px;
+
+}
+image{
+	width: 350px;
+	height: 200px;
+}
+hr{
+	border: none;
+	border-style: dotted;
+	border-top: 10px;
+	border-color: green;
+	width: 20%;
+}
+h1 , caption{
+	font-size: 20px;
+	color: green;
+}
+a{
+	text-decoration: none;
+	
+}
