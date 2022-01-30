@@ -1,0 +1,36 @@
+body{
+	/*margin: 0;*/
+	background-color: #C1DEAE;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+
+}
+h1{
+ font-family: 'Sacramento', cursive;
+
+}
+h2 , h3{
+	font-family: 'Montserrat', sans-serif;
+
+}
+.profile img{
+	width: 180px;
+	height: 180px;
+}
+.cloud-top{
+	position: relative;
+	left: 200px;
+	top: 5px;
+}
+.cloud-bottom{
+	position: absolute;
+
+}
+.top-con{
+	
+}
+.middle-con{
+	
+}
+.bottom-con{
+	}
