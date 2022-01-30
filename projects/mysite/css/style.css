@@ -1,5 +1,6 @@
 body{
 	/*margin: 0;*/
+	color:  #40514E;
 	background-color: #C1DEAE;
 	text-align: center;
 	font-family: 'Merriweather', serif;
@@ -7,30 +8,122 @@ body{
 }
 h1{
  font-family: 'Sacramento', cursive;
+font-size: 3.5rem;
+margin: 50px auto 0 auto;
 
+}
+h2{
+	font-size: 2.5rem;
+	font-weight: normal;
 }
 h2 , h3{
 	font-family: 'Montserrat', sans-serif;
+}
+h1, h2{
+	color: #66BFBF;
+}
+a, h3{
+	color: #11999E;
+}
+a{
+	margin: 10px 20px;
+	color: #11999E;
+	text-decoration: none;
+}
+a:hover{
+	color: #EAF6F6;
+}
+hr{
+	border: none;
+	border-style: dotted;
+	border-top: 10px;
+	border-color: green;
+	width: 20%;
+
+}
+p{
+	line-height: 2;
+}
+/* classe  */
+
+.top-con p{
+	color: #66BFBF;
+	font-weight: normal;
 
 }
 .profile img{
 	width: 180px;
 	height: 180px;
 }
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+	text-align: left;
+
+}
+.btn {
+  margin-bottom: 40px;
+  background:  #11cdd4;
+  background-image: -webkit-linear-gradient(top,  #11cdd4,  #11999e);
+  background-image: -moz-linear-gradient(top,  #11cdd4,  #11999e);
+  background-image: -ms-linear-gradient(top,  #11cdd4,  #11999e);
+  background-image: -o-linear-gradient(top,  #11cdd4,  #11999e);
+  background-image: linear-gradient(to bottom,  #11cdd4,  #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+/*images*/
 .cloud-top{
 	position: relative;
 	left: 200px;
 	top: 5px;
 }
-.cloud-bottom{
-	position: absolute;
+.com-img{
+	border-radius: 50%;
+	float: left;
+	margin-right: 30px;
+	width: 25%;
+}
+.chil-img{
+	float: right;
+	margin-right: 30px;
+	width: 25%;
 
 }
-.top-con{
-	
+.contact-message{
+	width: 40%;
+	margin: 40px auto 30px;
 }
-.middle-con{
-	
+.middle-container{
+	padding: 15px;
 }
-.bottom-con{
-	}
+.bottom-container{
+padding: 40px 20px 20px;
+background-color: #66BFBF;
+
+}
+.contact-me{
+	margin: 40px auto 30px;
+}
+.copy{
+	color: #EAF6F6;
+	font-size: 0.7rem;
+}
