@@ -1,0 +1,11 @@
+{
+  "name": "gatecheck",
+  "version": "1.0.0",
+  "description": "script for party Gate registration checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adamu muhammad muhammad (Geeky)",
+  "license": "MIT"
+}
